@@ -1,5 +1,23 @@
 [
   {
+    "title": "favorite Villa • Kralendijk Sirena Residence 9a32 bed 3 square_foot 142 m²",
+    "price": 850000,
+    "price_display": "$850,000",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-sirena-residence-9a32",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "favorite Villa • Bonaire Kaya Presioso 2 square_foot 2 m²",
+    "price": 975000,
+    "price_display": "$975,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-kaya-presioso-2",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
     "title": "favorite Apartment • Republiek Kaya Kuarts 29 bed 5 bathtub 3 square_foot 200 m²",
     "price": 629000,
     "price_display": "$629,000",
@@ -198,24 +216,6 @@
     "sold": false
   },
   {
-    "title": "favorite Villa • Kunuku Area Eco Lodge Villa 1 – Off-Grid Villa on 465 m² Freehold Plot bed 2 bathtub 2 square_foot 111 m²",
-    "price": 365000,
-    "price_display": "$365,000",
-    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-washikemba-130-96f021",
-    "broker": "Lux Realty Bonaire",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
-    "title": "favorite Apartment • Kralendijk Oceanfront Apartment Playa Lechi Residence # 2 bed 2 bathtub 2 square_foot 1,611 m²",
-    "price": 785000,
-    "price_display": "$785,000",
-    "url": "https://bonaire-brokers.com/properties/bonaire-realty-boulevard-gobernador-nicolaas-debrot-kralendijk-centre",
-    "broker": "Bonaire Realty",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
     "title": "Eco Lodge Villa 7 – Off-Grid Villa on 353 m² Freehold Plot",
     "price": 295000,
     "price_display": "$295,000",
@@ -232,6 +232,24 @@
     "broker": "Lux Realty Bonaire",
     "source": "bonaire-brokers.com",
     "sold": true
+  },
+  {
+    "title": "Eco Lodge Villa 1 – Off-Grid Villa on 465 m² Freehold Plot",
+    "price": 365000,
+    "price_display": "$365,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-washikemba-130-96f021",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Oceanfront Apartment Playa Lechi Residence # 2",
+    "price": 785000,
+    "price_display": "$785,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-boulevard-gobernador-nicolaas-debrot-kralendijk-centre",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
   },
   {
     "title": "Port Bonaire Penthouse B303",
@@ -1104,7 +1122,7 @@
     "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-santa-clara-kavel-5-e-31",
     "broker": "Caribbean Homes Bonaire",
     "source": "bonaire-brokers.com",
-    "sold": false
+    "sold": true
   },
   {
     "title": "Yacht Residence Apartment B07",
